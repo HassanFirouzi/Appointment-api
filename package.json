@@ -1,0 +1,16 @@
+{
+  "name": "2-appoinment-api",
+  "version": "1.0.0",
+  "description": "- CRUD endpointlerine sahip bir hastane randevu apisi\r - Create (Oluştur)\r - Read (Oku)\r - Update (Güncelle)\r - Delete (Sil)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.2.1",
+    "nodemon": "^3.1.11"
+  }
+}
